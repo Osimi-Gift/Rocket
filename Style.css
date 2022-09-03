@@ -3,11 +3,13 @@
   padding: 0;
   box-sizing: border-box ;
   max-width: 100%;
+  
 }
 body{
   background-image: url('Surface.jpg');
   width: 100%;
  margin-top: 20%;
+background-color: #D3BED6;
 }
 .main-div{
   display: block;
